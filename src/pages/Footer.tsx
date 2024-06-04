@@ -1,4 +1,4 @@
-import { EmailIcon, InfoIcon, PhoneIcon } from '@chakra-ui/icons'
+import { EmailIcon, PhoneIcon } from '@chakra-ui/icons'
 import { Box, Container, Flex, HStack, IconButton, Text } from '@chakra-ui/react'
 import { companyName } from '../../config'
 
